@@ -52,6 +52,6 @@ Implementation of the K-Means algorithm
 
 Clustering of the selected data set (2-D data) using K-Means algorithm.
 
-#TaskSeven
+# TaskSeven
 
 ![TaskSeven/TaskSeven.png](https://github.com/Lertss/Examples/blob/master/TaskSeven/TaskSeven.png)
